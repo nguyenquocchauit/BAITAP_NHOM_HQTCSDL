@@ -260,6 +260,6 @@ INSERT NGUYEN_LIEU VALUES('NL05',N'Tôm','07/12/2021',12000,N'kilogram')
 
 -- NHẤP DỮU LIỆU CÁC BẢNG HOÁ ĐƠN NHẬP
 
-
+châu nè
 
 
